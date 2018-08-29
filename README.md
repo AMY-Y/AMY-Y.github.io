@@ -6,9 +6,9 @@
 <body>
   <h1>主题</h1>
   <ol>
-    <li id="git-hub">github和git入门</li>
+    <li><a name="git-hub">github和git入门</a></li>
   </ol>
-  <h2 href="#git-hub">GitHub和git入门</h2>
+  <h2><a href="#git-hub">GitHub和git入门</a></h2>
   <ul>
     <li>
      <a http="http://www.worldhello.net/gotgit/">github入门指南by蒋鑫大大</a>
