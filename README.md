@@ -4,7 +4,10 @@
 <meta charset="utf-8">
 </head>
 <body>
-  <h1>GitHub和git入门</h1>
+  <ul>
+    <li id="git-hub">github和git入门</li>
+  </ul>
+  <h2 href="#git-hub">GitHub和git入门</h2>
   <ul>
     <li>
      <a http="http://www.worldhello.net/gotgit/">github入门指南by蒋鑫大大</a>
