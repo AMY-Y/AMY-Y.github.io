@@ -4,9 +4,10 @@
 <meta charset="utf-8">
 </head>
 <body>
-  <ul>
+  <h1>主题</h1>
+  <ol>
     <li id="git-hub">github和git入门</li>
-  </ul>
+  </ol>
   <h2 href="#git-hub">GitHub和git入门</h2>
   <ul>
     <li>
