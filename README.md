@@ -14,6 +14,12 @@
         <li></li>
       </ul>
     </li>
+    <li>
+      <p>前端大神们，谨以文字出现顺序排序</p>
+      <ul>
+        <li><a name="yueyingdada">月影大大</a></li>
+      </ul>
+    </li>
   </ol>
   <h2><a href="#git-hub">GitHub和git入门</a></h2>
   <ul>
@@ -36,6 +42,8 @@
     <li></li>
     <li>
       <a http="t.75team.com">奇舞团前端</a>
+      <p>17年前端小白的福音，有引导之效，纯干货</p>
+      <a href="#yueyingdada" http="https://www.h5jun.com/">月影大大</a>
     </li>
   </ul>
   <h2><a href="#usings">html、css、js基础入门</a></h2>
