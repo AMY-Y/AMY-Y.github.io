@@ -1,0 +1,33 @@
+
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+  <h1><a href="#errors-html">html</a></h1>
+  <h1><a href="#errors-css">css</a></h1>
+  <h1><a href="#errors-js">js</a></h1>
+  <h2 id="errors-html">html</h2>
+  <pre>
+    <div>
+        <a href="#NO1">第一章：刘姥姥一进大观园</a><br>
+        <a href="#NO2">第二章：刘姥姥二进大观园</a><br>
+        <a href="链接.html#NO3">第三章：刘姥姥三进大观园</a>
+      </div>
+      <div style="height:1000px;">
+        <a name="NO1">刘姥姥一进大观园</a>
+        <p>gfdsgfdsgfsghfshfsgfsgfsgfgfsgfs
+      gfsgfsdgfsdgsdfgsdfgfdsg
+      gfsdgsdfgfdgfsdgsfgfsgfdsgfdsgsdfgdsfgfsdgsdfgsdfgdsfgfdsgfsdg</p>
+      </div>
+      <div style="height:1000px;">
+        <p id="NO2">刘姥姥二进大观园</p>
+        <p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+      </div>
+  
+  </pre>
+  <h2 id="errors-css">css</h2>
+  <h2 id="errors-js">js</h2>
+ 
+</body>
+</html>
