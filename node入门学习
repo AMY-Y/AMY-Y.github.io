@@ -1,2 +1,15 @@
 拜读书籍《新时期的node.js入门》
 http://e.dangdang.com/touch/products/1900981582.html?id=1900981582&mediaId=1900981582&mediaType=2&custId=ceQ4%2BK8pKmFB7aIJorerUQ%3D%3D&channelId=30000
+1.CommonJS和AMD
+  以上为JavaScript的两种模块规范
+  node属于CommonJS，
+    每个文件都看作一个模块；
+    模块内部定义的变量都是私有的，无法被其他模块使用。除非用exports暴漏出来。可以用require加载。
+    模块加载同步。宽度影响，不适用与浏览器中的JavaScript。
+  AMD
+    异步加载，代码定义在回调函数中，加载完成后，回调函数才会执行。
+    目前流行的是RequireJS
+ 2.require及其运行机制
+    
+  
+  
