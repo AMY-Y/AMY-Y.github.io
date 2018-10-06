@@ -20,7 +20,7 @@
 * [果冻虾仁大大csdn原文](https://blog.csdn.net/guodongxiaren/article/details/23690801)
 * [果冻虾仁大大GitHub演示](https://github.com/guodongxiaren/README/)
 
-心得：1下次博客应该需要用markdown来写，或用git上传html文件了，GitHub的blog只能完成静态效果，将来还需要绑定自己的域名来实现动态效果。2直接在APP上搜不如直接百度搜，好处是选择多。3markdown确实可以让人更专心的写作。4图灵社区居然没有APP。5markdown小结只写了Word文档，待改进上传。6看文章总结后，需要果冻大大的实例引导。7果冻虾仁大大的首页https://guodongxiaren.github.io/#port可以借鉴
+心得：1下次博客应该需要用markdown来写，或用git上传html文件了，GitHub的blog只能完成静态效果，将来还需要绑定自己的域名来实现动态效果。2直接在APP上搜不如直接百度搜，好处是选择多。3markdown确实可以让人更专心的写作。4图灵社区居然没有APP。5markdown小结只写了Word文档，待改进上传。6看文章总结后，需要果冻大大的实例引导。7可以借鉴果冻虾仁大大的首页https://guodongxiaren.github.io/#port 的各社区链接风格，同时在首页加上自己的简历
 
 ###github和git入门
 ---
@@ -32,8 +32,10 @@
   *旧版本,个人感觉不适合入门但写的很好*
 * [github使用教程](https://m.youtube.com/playlist?list=PL8LR_PrSuIRh57eeYlY9vhv9dRYmTsErB)
 
-  *纯小白学GitHub和git感动死，但是需要翻墙,视频教程，没有看书快*
+  *纯小白学GitHub和git感动死，但是需要翻墙。视频教程，没有看书快。对流程有个大概印象*
 * [github入门与实践](http://e.dangdang.com/touch/products/1901077316.html?id=1901077316&mediaId=1901077316&mediaType=2&custId=l0H%2B4bi0etZwT0dhP5ziXQ%3D%3D&channelId=30000&from=singlemessage)
 
   *以这本书为主*
 * [git自学之路系列](http://blog.csdn.net/KjunChen/article/details/51981302)
+
+ *以此为辅*
