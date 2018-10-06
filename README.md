@@ -11,6 +11,7 @@
 * [github和git入门](#github和git入门)
 * [HTML和CSS入门](#HTML和CSS入门)
 * [JS入门](#JS入门)
+* [工具使用](#工具使用)
 
 ###markdown的使用
 ---
@@ -48,7 +49,17 @@
 
   *HTML和css部分适合新手入门，视频。17年前端小白的福音，有引导之效，纯干货。* 同时接触到了大神 [月影大大](https://www.h5jun.com/)
 * [html&css设计与构建网站](http://m.tb.cn/h.3SmUgcS)
+
   *入门级别的书，可以边看教程边看书。个人感觉纯看视频，有些概念会不清晰，但都看了有费时间，有更好的学习方法的欢迎告知（奸笑脸）。*
+* 其他知识点
+
+ * [BFC](https://segmentfault.com/a/1190000013647777)
+ 
+  *据说用overflow:hidden，对js交互不太好，所以有了clearfx*
+ * [js学习思维导图，freemind编辑](https://mp.weixin.qq.com/s/jQ-TJevvLdWch7e9PrcQpg)
+ * [闭包by方应杭大大](https://zhuanlan.zhihu.com/p/22486908)转载于https://funteas.com/topic/5afd4dc1a9f4524666d31040
+ * [作用域、块级作用域、上下文、执行上下文、作用域链](https://funteas.com/topic/5afd4dbaa9f4524666d3103e)
+  *感觉这位也是入门级别大神，有好多干货*
 
 ###JS入门
 ---
@@ -62,3 +73,12 @@
 
   *第一遍听的时候部分内容比较懵逼，当然第二遍现在还没有勇气刷，视频时间较长。提升巩固时可看*
   
+###工具使用
+---
+* ####ps切图
+ * [ps切图必知必会](https://juejin.im/entry/596048d86fb9a06ba14b98ad)
+  *切图快捷键和功能实现干货。如何切图、抠图、如何保存图片格式、图片格式区别、制作和引用雪晶图*
+ * 达内切图教程总结待上传
+* ####webstorm
+ *达内教程总结待上传
+ 
