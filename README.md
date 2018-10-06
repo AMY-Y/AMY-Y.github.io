@@ -42,6 +42,9 @@
 * [git自学之路系列](http://blog.csdn.net/KjunChen/article/details/51981302)
 
   *以此为辅*
+* 其他
+
+  * [教你如何直接在github上预览html网页效果](https://blog.csdn.net/qq_25479327/article/details/78778282)
 
 ### HTML和CSS入门
 
