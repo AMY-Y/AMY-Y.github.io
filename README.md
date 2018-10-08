@@ -9,6 +9,7 @@
 ## 目录
 * [markdown的使用](#markdown的使用)
 * [github和git入门](#github和git入门)
+* [前端格局](#前端格局)
 * [HTML和CSS入门](#HTML和CSS入门)
 * [JS入门](#JS入门)
 * [工具使用](#工具使用)
@@ -46,6 +47,13 @@
 
   * [教你如何直接在github上预览html网页效果](https://blog.csdn.net/qq_25479327/article/details/78778282)
 
+### 前端格局
+* [转 现代前端开发路线图：从零开始，一步步成为前端工程师](https://mp.weixin.qq.com/s/ZnZml8Imt6csGw0WcvTuMA)
+
+   *深深认同不coding，当时理解的东西也会很快忘掉这句话，本人就是典型的栗子*
+* [转sorry,会JS真的了不起](https://mp.weixin.qq.com/s/t-vjX2Kq8nAqfvxB9zv0LQ)
+
+   *最后是个小广告，但是文章对前端JS的相关应用领域做了一下介绍*
 ### HTML和CSS入门
 
 * [奇舞团前端](t.75team.com)
