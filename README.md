@@ -102,8 +102,8 @@
 
  *排名顺序不重要哈*
 * 廖雪峰&阮一峰大神不用说了哈，搜名字就能搜到
-* 颜海镜(https://yanhaijing.com)
-* 为之漫笔(http://lisongfeng.cn)
+* [颜海镜](https://yanhaijing.com)
+* [为之漫笔](http://lisongfeng.cn)
 * 微信公众号
   * 前端日刊
   * 奇舞周刊
