@@ -47,6 +47,10 @@
 * 其他
 
   * [教你如何直接在github上预览html网页效果](https://blog.csdn.net/qq_25479327/article/details/78778282)
+- 重温github的相关操作系列
+  1.请参考大神 [请叫我大表哥](https://www.cnblogs.com/wangmingshun/p/5424767.html) 的git系列
+   *原来每台电脑上都可以有一个对应于GitHub上的ssh密钥，潜意识里老觉得会公用那一个密钥
+  
 
 ### 前端格局
 * [转 现代前端开发路线图：从零开始，一步步成为前端工程师](https://mp.weixin.qq.com/s/ZnZml8Imt6csGw0WcvTuMA)
