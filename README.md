@@ -48,6 +48,7 @@
 
   * [教你如何直接在github上预览html网页效果](https://blog.csdn.net/qq_25479327/article/details/78778282)
 - 重温github的相关操作系列
+
   1.请参考大神 [请叫我大表哥](https://www.cnblogs.com/wangmingshun/p/5424767.html) 的git系列
    *原来每台电脑上都可以有一个对应于GitHub上的ssh密钥，潜意识里老觉得会公用那一个密钥
   
@@ -89,6 +90,8 @@
 * [奇舞团前端](t.75team.com)
 
   *第一遍听的时候部分内容比较懵逼，当然第二遍现在还没有勇气刷，视频时间较长。提升巩固时可看*
+* [转：详解JavaScript中的this](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230163&idx=1&sn=1a55521b1ec68036dd512192d9fc7dd1&chksm=bd4956578a3edf41bf74899fc6a2232cf5744b1e3235445dbd27e98854fb4ca82917a64f2c0d&scene=0#rd)
+* [转：图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9&chksm=bd4956658a3edf7301a6392359bfda0433a77253e6b9a582255404ba3fbc6c29e7e5757aea52&scene=0#rd)
   
 ### 工具使用
 
