@@ -52,6 +52,7 @@
   1.请参考大神 [请叫我大表哥](https://www.cnblogs.com/wangmingshun/p/5424767.html) 的git系列
   
    *原来每台电脑上都可以有一个对应于GitHub上的ssh密钥，潜意识里老觉得会公用那一个密钥*
+  2.另，还可以直接下载桌面版GitHub，小白也可以简单pull&push的操作界面。但为了装*，仍然需要熟悉git操作
   
 
 ### 前端格局
